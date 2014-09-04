@@ -1,0 +1,50 @@
+
+    header {
+      text-align: center;
+      background: url('../images/background.png');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 50px;
+      color: white;
+
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 25px;
+      width: 15%;
+      height: 15%;
+
+    }
+    ul {
+      padding: 10px;
+      background: gray
+    }
+    li {
+      display: inline;
+      font-weight: bold;
+      padding: 0px 10px 0px 10px;
+    }
+    article{
+      max-width: 500px;
+      padding: 15px;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      }
+    h2{
+      font-family: Arial;
+    }
+
+        button {
+          background-color: blue;
+          border: solid;
+          color: white;
+          font-weight: bold;
+          }
+
