@@ -1,0 +1,15 @@
+/* include your css here */
+
+
+    .container {
+        background-color: gray;
+    }
+
+    .header {
+        background-color: orange;
+    }
+
+    footer h3 {
+        float: left;
+        padding-right:20px;
+    }
