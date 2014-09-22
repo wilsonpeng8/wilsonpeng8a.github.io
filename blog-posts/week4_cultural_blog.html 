@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" type="text/css" href="../stylesheets/blog-stylesheet.css">
+
+</head>
+<body>
+  <header>
+
+    <img src="../images/selfphoto.png">
+
+    <h1>Wilson's Blog</h1>
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact me/Social Media</a></li>
+    </ul>
+  </header>
+<article>
+  <h2>Week 4 Cultural Blog</h2>
+  <p>This week's cultural blog topic is based on a problem that I've been noticing in the Tech World. I've personally
+    been involved in tech all my life. I've created numerous forums in the past. I've been working with startups. Living in the bay area I've worked with agencies and spent most of my life doing entrepreneurship and marketing. </p>
+    <p>One huge problem I've been seeing in the tech world is the amount of growing startups. Sure it's always great to see new innovation and changes in the tech world, but sometime I feel that there may be just too many of them. Most of these co-founders are extremely talented individuals that work their butts off 24/7 to build something successful and have a hard time securing funding etc.</p>
+    <p>I worry that we are in a big tech bubble with all the upcoming startups and investors that things might be very difficult in the future. One way we can solve this problem is by working together more and building things together instead of going on their own. There isn't an exact way we can solve this problem, but I feel that if everyone doesn't think about building the next Facebook, instead work together and unite together we will be much more successful.</p>
+  <button>Share</button>
+</article>
+
+</body>
